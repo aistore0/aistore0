@@ -1,13 +1,13 @@
-# ![Profile Picture](https://avatars.githubusercontent.com/u/${user_id}?s=100) Welcome to My GitHub Profile! 👋
+# ![Profile Picture](https://avatars.githubusercontent.com/u/170622847?v=4&size=128) Welcome to My GitHub Profile! 👋
 
-Hello, I'm **Faiz** (or you can call me Ai store). I'm a passionate developer with a love for building cool things and contributing to open-source projects. Here's a little about me and what I'm working on:
+Hello, I'm **Aistore** (or you can call me Faiz). I'm a passionate developer with a love for building cool things and contributing to open-source projects. Here's a little about me and what I'm working on:
 
 ---
 
 ### 🚀 About Me
 
 - 🔭 I’m currently working on **Minecraft API** and **Redstone Contraptions**.
-- 🌱 I'm learning **advanced server-side programming** and **VPS management**.
+- 🌱 I'm learning **advanced server-side programming** and **VPS DO**.
 - 👯 I’m looking to collaborate on **Minecraft-related projects** and **API development**.
 - 💬 Ask me about **Minecraft**, **programming**, and **tech**!
 - 📚 Currently reading about **AI in gaming** and **server optimization**.
@@ -24,9 +24,9 @@ Hello, I'm **Faiz** (or you can call me Ai store). I'm a passionate developer wi
 
 ### 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)
-- [Twitter](https://twitter.com/your-twitter)
-- [Website](https://yourwebsite.com)
+- [All Social](https://cloud.aistore.my.id/sosmed/)
+- [Tiktok](https://tiktok.com/@Aistore.my.id)
+- [Website](https://cloud.aistore.my.id)
 
 ---
 
@@ -44,9 +44,9 @@ Hello, I'm **Faiz** (or you can call me Ai store). I'm a passionate developer wi
 
 ### 🔥 Popular Repositories
 
-- [Minecraft-API](https://github.com/aistore0/minecraft-api) - A custom Minecraft API for seamless integration with your game server.
-- [Redstone-Contraptions](https://github.com/aistore0/redstone-contraptions) - Collection of advanced redstone creations for Minecraft.
-- [VPS-Manager](https://github.com/aistore0/vps-manager) - VPS management scripts to optimize server performance.
+- [Minecraft-API](https://api.mcsrvstat.us/3/ip:port) - A custom Minecraft API for seamless integration with your game server.
+- [Simple Html](https://github.com/aistore0/aistore0.github.io) - Simple Html By chat-gpt
+- [WhatsApp](https://cloud.aistore.my.id/ch/) - join mau channel WhatsApp for get random script or giveaway
 
 ---
 
