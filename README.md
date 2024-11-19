@@ -1,4 +1,4 @@
-# ![Profile Picture](https://avatars.githubusercontent.com/u/170622847?v=4&size=128) Welcome to My GitHub Profile! 👋
+# ![Profile Picture](https://avatars.githubusercontent.com/u/170622847?v=4&size=236) Welcome to My GitHub Profile! 👋
 
 Hello, I'm **Aistore** (or you can call me Faiz). I'm a passionate developer with a love for building cool things and contributing to open-source projects. Here's a little about me and what I'm working on:
 
